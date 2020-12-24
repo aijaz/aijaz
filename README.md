@@ -16,7 +16,7 @@ designer behind the [Qur'an Memorizer][qm] iOS App.
 - I'm also a frequent public speaker. You can find a list of my talks [here][about].
 
 [ba]: https://business.gogoair.com/
-[qm]: https://quranmemorizer.com
+[qm]: https://quranmem.com
 [qr]: https://apps.apple.com/us/app/quranreflect/id1444969758?mt=8
 [md]: https://masjiddefense.com
 [rg]: https://thereluctantgunowner.com
