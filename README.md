@@ -6,7 +6,7 @@ As a hacker by nature, I enjoy making things. My name is Aijaz Ansari and I'm a 
 ## Current Projects
 
 - I teach the Computer Science class to High School Students at [Colorado Association of Black Professional Engineers and Scientists (CABPES)][cabpes].
-- For about the past ten years I've been the developer and 
+- For about the past fifteen years I've been the developer and 
 designer behind the [Qur'an Memorizer][qm] iOS App. 
 - I recently wrote the [QuranReflect][qr] iOS app, which is still very much a work in progress.
 - I'm also a community organizer and volunteer as head of security at my local mosque. In that capacity I also manage two additional blogs:
